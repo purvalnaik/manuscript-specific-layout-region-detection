@@ -1,0 +1,62 @@
+{
+    "image": "page_37.png",
+    "image_width": 3045,
+    "image_height": 1397,
+    "predictions": [
+        {
+            "label": "main_text",
+            "class_id": 2,
+            "confidence": 0.0209,
+            "bbox": [
+                277,
+                295,
+                2326,
+                1023
+            ]
+        },
+        {
+            "label": "main_text",
+            "class_id": 2,
+            "confidence": 0.0189,
+            "bbox": [
+                1067,
+                290,
+                2645,
+                1016
+            ]
+        },
+        {
+            "label": "side_text",
+            "class_id": 3,
+            "confidence": 0.0149,
+            "bbox": [
+                294,
+                1126,
+                1388,
+                1297
+            ]
+        },
+        {
+            "label": "footer",
+            "class_id": 1,
+            "confidence": 0.0145,
+            "bbox": [
+                299,
+                1123,
+                2176,
+                1308
+            ]
+        },
+        {
+            "label": "footer",
+            "class_id": 1,
+            "confidence": 0.0105,
+            "bbox": [
+                1404,
+                1116,
+                2659,
+                1305
+            ]
+        }
+    ]
+}

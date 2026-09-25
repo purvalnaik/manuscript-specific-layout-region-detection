@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.vscode/
+runs/
+
+manuscript_dataset.zip
+manuscript_final_results.zip
+test_results/

@@ -1,0 +1,150 @@
+{
+    "image": "page_31.png",
+    "image_width": 3045,
+    "image_height": 1397,
+    "predictions": [
+        {
+            "label": "main_text",
+            "class_id": 2,
+            "confidence": 0.022,
+            "bbox": [
+                283,
+                100,
+                2350,
+                599
+            ]
+        },
+        {
+            "label": "side_text",
+            "class_id": 3,
+            "confidence": 0.0173,
+            "bbox": [
+                299,
+                1108,
+                2051,
+                1311
+            ]
+        },
+        {
+            "label": "footer",
+            "class_id": 1,
+            "confidence": 0.0167,
+            "bbox": [
+                334,
+                1105,
+                2826,
+                1316
+            ]
+        },
+        {
+            "label": "footer",
+            "class_id": 1,
+            "confidence": 0.0147,
+            "bbox": [
+                296,
+                1086,
+                1399,
+                1312
+            ]
+        },
+        {
+            "label": "footer",
+            "class_id": 1,
+            "confidence": 0.0142,
+            "bbox": [
+                1861,
+                130,
+                2709,
+                949
+            ]
+        },
+        {
+            "label": "footer",
+            "class_id": 1,
+            "confidence": 0.0139,
+            "bbox": [
+                1901,
+                1099,
+                2698,
+                1317
+            ]
+        },
+        {
+            "label": "footer",
+            "class_id": 1,
+            "confidence": 0.0136,
+            "bbox": [
+                2270,
+                108,
+                2708,
+                564
+            ]
+        },
+        {
+            "label": "main_text",
+            "class_id": 2,
+            "confidence": 0.0123,
+            "bbox": [
+                293,
+                868,
+                1890,
+                1302
+            ]
+        },
+        {
+            "label": "footer",
+            "class_id": 1,
+            "confidence": 0.0118,
+            "bbox": [
+                1,
+                197,
+                216,
+                1200
+            ]
+        },
+        {
+            "label": "footer",
+            "class_id": 1,
+            "confidence": 0.0111,
+            "bbox": [
+                2472,
+                899,
+                2752,
+                1390
+            ]
+        },
+        {
+            "label": "footer",
+            "class_id": 1,
+            "confidence": 0.011,
+            "bbox": [
+                1543,
+                402,
+                2701,
+                580
+            ]
+        },
+        {
+            "label": "footer",
+            "class_id": 1,
+            "confidence": 0.0105,
+            "bbox": [
+                294,
+                869,
+                1426,
+                1300
+            ]
+        },
+        {
+            "label": "main_text",
+            "class_id": 2,
+            "confidence": 0.0101,
+            "bbox": [
+                1047,
+                922,
+                2703,
+                1307
+            ]
+        }
+    ]
+}
