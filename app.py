@@ -19,7 +19,7 @@ CLASS_NAMES = {
     4: "filler"
 }
 
-st.title("?? Manuscript Specific Layout Region Detection")
+st.title("Manuscript Specific Layout Region Detection")
 st.write(
     "Upload a manuscript page to detect and classify layout regions."
 )
@@ -61,7 +61,7 @@ if uploaded_file is not None:
         st.stop()
 
     height, width = image.shape[:2]
-
+    with st.spinner("Processing image... Please wait."):
     results = model.predict(
         source=temp_path,
         conf=confidence,
