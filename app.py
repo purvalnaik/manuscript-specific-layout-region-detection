@@ -61,11 +61,12 @@ if uploaded_file is not None:
         st.stop()
 
     height, width = image.shape[:2]
-    with st.spinner("Processing image... Please wait."):
+    st.info("Processing image... Please wait.")
+
     results = model.predict(
-        source=temp_path,
-        conf=confidence,
-        verbose=False
+    source=temp_path,
+    conf=confidence,
+    verbose=False
     )
 
     result = results[0]
